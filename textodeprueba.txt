@@ -1,5 +1,8 @@
-texto de prueba
+Texto de prueba.
 
-
+Segunda parte del ejercicio. Modificar texto en branch1.
 
 Regreso a master y edición de texto.
+
+
+		fin.
